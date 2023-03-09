@@ -1,2 +1,2 @@
 # MSIB-Eduwork-Batch4
-Berisi tugas selama mengikuti Studi Independen di Mitra Eduwork
+Repository ini berisi tugas-tugas selama mengikuti Studi Independen di Mitra Eduwork
